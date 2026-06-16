@@ -1,0 +1,51 @@
+PROYECTO WASAP 3.0 - REPOSITORIOS
+
+Repositorio Principal
+URL:
+https://github.com/Bonjo06/wasap3-main
+
+Descripción:
+Contiene la documentación general del proyecto, diagramas de arquitectura, evidencias de funcionamiento, informe de la Evaluación 3 y el archivo con los enlaces a los demás repositorios.
+
+---
+
+Repositorio Frontend
+URL:
+https://github.com/Bonjo06/wasap3-frontend
+
+Descripción:
+Contiene la interfaz de usuario de la aplicación Wasap 3.0. Este componente permite la interacción del usuario con el sistema y consume los servicios expuestos por el Backend For Frontend (BFF).
+
+---
+
+Repositorio Backend For Frontend (BFF)
+URL:
+https://github.com/Bonjo06/wasap3-backend-for-frontend
+
+Descripción:
+Componente encargado de centralizar las peticiones provenientes del frontend y coordinar la comunicación entre los microservicios de usuarios y mensajes.
+
+---
+
+Repositorio Microservicio de Usuarios
+URL:
+https://github.com/Bonjo06/wasap3-msuser
+
+Descripción:
+Microservicio responsable de la gestión de usuarios. Implementado con Spring Boot, Spring Data JPA y base de datos H2 para la persistencia de información.
+
+---
+
+Repositorio Microservicio de Mensajes
+URL:
+https://github.com/Bonjo06/wasap3-msmessages
+
+Descripción:
+Microservicio responsable de la gestión y persistencia de mensajes. Implementado con Spring Boot, Spring Data JPA y base de datos H2.
+
+---
+
+Autor:
+Benjamin Alejandro
+
+Proyecto desarrollado para la Evaluación 3 de Arquitectura de Microservicios.
